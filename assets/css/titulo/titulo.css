@@ -1,0 +1,8 @@
+.titulo {
+    color: var(--cor-do-titulo);
+    font-family: var(--fonte-titulo);
+    font-size: 5rem;
+    font-weight: bold;
+    margin: 2rem;
+
+}

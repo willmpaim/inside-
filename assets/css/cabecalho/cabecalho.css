@@ -1,0 +1,21 @@
+.cabecalho__div {
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+}
+
+
+
+.cabecalho__link {
+    color: var(--cor-itens-nav);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    margin: 0 5px 0 5px;
+    padding: 5px 5px 5px 5px;
+    text-decoration: none;
+    background-color: var(--cor-cabecalho-nav);
+}
+
+.cabecalho__link:hover {
+    font-size:large;
+}

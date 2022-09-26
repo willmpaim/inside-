@@ -1,0 +1,17 @@
+:root {
+
+     --cor-de-background: #131212;
+     --cor-de-fonte-principal: #ffffff;
+     --cor-titulo-container: #aa4313;
+     --cor-cabecalho-nav: #d64f10;
+     --cor-itens-nav: #0f0f0f;
+     --cor-do-titulo: #fa6807;
+     --fonte-primaria: open sans-serif, sans-serif;
+     --fonte-titulo: Montserrat, sans-serif;
+
+}
+
+body {
+    background-color: var(--cor-de-background);
+    font-family: var(--fonte-primaria);
+}
