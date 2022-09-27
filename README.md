@@ -1,5 +1,5 @@
 # Inside #
-<h2> Pagina realizada para pratica HTMLe CSS 
+<h5> Pagina realizada para pratica HTMLe CSS 
 
 ``utilzado para fins de estudo ``
 
