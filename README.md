@@ -6,5 +6,3 @@
 <li> CSS Flexbox
 <li> CSS Variaveis
 <li> CSS Arquitetura Atomic Design
-
-https://github.com/willmpaim/Inside
