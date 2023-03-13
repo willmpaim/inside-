@@ -7,4 +7,4 @@
 <li> CSS Variaveis
 <li> CSS Arquitetura Atomic Design
 
-  https://willmpaim.github.io/Inside
+  https://willmpaim.github.io/inside
